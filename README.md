@@ -1,3 +1,3 @@
 # Hello-World
-Test project
+Test project.
 This is a line written for the commit tutorial.
